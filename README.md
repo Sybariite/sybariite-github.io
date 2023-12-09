@@ -7,4 +7,4 @@ There will be options for reordering, filtering, resizing, and otherwise restruc
 *a la refrigerator*
 
 ### To Do / Issues
-- [] Github is notifying of build errors ever since changing to the docs directory
+- [ ] Github is notifying of build errors ever since changing to the docs directory
